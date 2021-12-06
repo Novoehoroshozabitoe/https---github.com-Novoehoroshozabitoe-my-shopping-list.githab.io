@@ -17,7 +17,7 @@ function App() {
         >
           Learn React
         </a>
-        <p>My Host</p>
+        <p>My Hosting</p>
       </header>
     </div>
   );
